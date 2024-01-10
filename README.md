@@ -51,6 +51,9 @@ This repository contains the backend and frontend code for a Library Management 
 
 This MERN Stack Library Management System integrates powerful backend functionalities with a user-friendly frontend interface. Leveraging Node.js, Express.js, MongoDB, and React.js, it offers a robust platform for managing books in a library setting. The deployment automation through GitHub Actions ensures efficient deployment and updates of both backend and frontend components.
 
+## Backend Link
+https://github.com/dkay7223/bookstore-backend.git
+
 ---
 
 Feel free to tailor and expand upon this project to highlight additional details, specific features, or any unique aspects of project's architecture or functionality.
